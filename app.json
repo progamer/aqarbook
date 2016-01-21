@@ -1,0 +1,13 @@
+{
+  "name": "aqarbook",
+  "description": "",
+  "scripts": {
+    "postdeploy": "setup",
+    "pr-predestroy": "teardown"
+  },
+  "env": {
+  },
+  "addons": [
+
+  ]
+}
